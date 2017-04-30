@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">随手记事</string>
+
+    <string name="group">分组</string>
+    <string name="all">全部</string>
+    <string name="ungroup">未分组</string>
+    <string name="tmp">临时</string>
+    <string name="life">生活</string>
+    <string name="study">学习</string>
+    <string name="work">工作</string>
+    <string name="other">其它</string>
+    <string name="psw">加密</string>
+    <string name="recycle">回收站</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="notes">Notes</string>
+    <string name="search">查找</string>
+    <string name="press_again_exit">再按一次退出</string>
+
+    <string name="share">分享</string>
+    <string name="csdn_blog">项目博客</string>
+    <string name="project_home">项目主页</string>
+    <string name="about_bottom_text">个人邮箱：1139230294@qq.com</string>
+
+    <array name="share_dialog_text">
+        <item>Wechat Friends</item>
+        <item>Wechat Moments</item>
+        <item>Wechat Favorite</item>
+        <item>Sina Weibo</item>
+        <item>More</item>
+    </array>
+
+    <string name="share_text" formatted="false">随手记事，永不忘记！快来下载！%s\u0020%s</string>
+    <string name="download_url" >Download url</string>
+    <string name="not_install_app">请先安装应用</string>
+    <string name="app_desc">随手记事，永不忘记！</string>
+
+</resources>
